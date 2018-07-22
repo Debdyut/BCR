@@ -1,2 +1,3 @@
 # BCR
-Contains resources related to my project on Bengali Character Recognition
+
+Watch this space to get access to datasets, codes and related documents.
